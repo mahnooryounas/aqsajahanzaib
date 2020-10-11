@@ -1,0 +1,112 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+body {
+    background-image: url(https://jelastic.com/blog/wp-content/uploads/2020/01/Cloud-Hosting-Benefits-.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+nav {
+    border: solid white 2px;
+    height: 50px
+}
+
+#search {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.p1 {
+    margin-right: 550px;
+    
+}
+
+.p2 {
+     font-size: 15px;
+    margin-right: 50px;
+}
+
+
+input[type=submit] {
+    background-color: white;
+    border: none;
+    padding: 10px 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#btn {
+    margin-top: 5px;
+    margin-right: 5px;
+    background: transparent;
+
+    float: right;
+    color: white;
+}
+
+#btn2 {
+    background: transparent;
+
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+    color: white;
+}
+
+input[type=text] {
+    width: 300px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    background: transparent;
+}
+
+
+
+center {
+
+    height: 400px;
+    margin-top: 200px;
+    color: white;
+    
+
+}
+
+label {
+    color: white;
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: navy;
+  color: white;
+  font-size: 15px;
+  font-family:Georgia;
+}
