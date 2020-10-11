@@ -1,1 +1,1 @@
-<?php include("./mas.html") ?>
+<?php include("./index.html") ?>
